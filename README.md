@@ -43,14 +43,14 @@
 |Date||Desc||
 |:---------:|:--------------:|:--------------:|:--------------:|
 |||*__Maerz__*||
-|10.03|&#x1F536;| Preliminary meeting, Divide people into groups, Organization  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
-|17.03|&#x1F536;| Quick Tutorials, Requirements Workshop, Sprint Planning 1 |&#x1F536;|
-|24.03|&#x1F539; |   Individual Group Meetings                                                                    |&#x1F539;|
+|11.03|&#x1F536;| Preliminary meeting, Divide people into groups, Organization  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
+|18.03|&#x1F536;| Quick Tutorials, Requirements Workshop, Sprint Planning 1 |&#x1F536;|
+|25.03|&#x1F539; |   Individual Group Meetings                                                                    |&#x1F539;|
 |31.03|&#x1F53A; |Easter holidays |&#x1F53A; |                                                                     |
 |||*__April__*||
-|07.04|&#x1F53A; |Easter holidays |&#x1F53A; |
+|08.04|&#x1F53A; |Easter holidays |&#x1F53A; |
 |12.04|&#x1F4D8;| Mon. 10.00 - Release 1 |  &#x1F4D8;||12.04|&#x1F4D8;| Mon. 10.00 - Release 1 |  &#x1F4D8;|
-|14.04|&#x1F536; |Release 1 Review, Sprint Planning 2 |&#x1F536;|
+|15.04|&#x1F536; |Release 1 Review, Sprint Planning 2 |&#x1F536;|
 |21.04||--||
 |28.04|&#x1F539; |Individual Group Meetings| &#x1F539;|
 |||*__Mai__*||
