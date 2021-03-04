@@ -46,9 +46,9 @@
 |10.03|&#x1F536;| Preliminary meeting, Divide people into groups, Organization  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
 |17.03|&#x1F536;| Quick Tutorials, Requirements Workshop, Sprint Planning 1 |&#x1F536;|
 |24.03|&#x1F539; |   Individual Group Meetings                                                                    |&#x1F539;|
-|31.03|&#x1F53A; |Osterferien |&#x1F53A; |                                                                     |
+|31.03|&#x1F53A; |Easter holidays |&#x1F53A; |                                                                     |
 |||*__April__*||
-|07.04|&#x1F53A; |Osterferien |&#x1F53A; |
+|07.04|&#x1F53A; |Easter holidays |&#x1F53A; |
 |12.04|&#x1F4D8;| Mon. 10.00 - Release 1 |  &#x1F4D8;||12.04|&#x1F4D8;| Mon. 10.00 - Release 1 |  &#x1F4D8;|
 |14.04|&#x1F536; |Release 1 Review, Sprint Planning 2 |&#x1F536;|
 |21.04||--||
@@ -66,6 +66,6 @@
 |21.06|&#x1F4D8;| Mon. 10.00 - Release 3| &#x1F4D8;|
 |23.06|&#x1F536;| Release 3 Review, Final Presentation |&#x1F536;|
 |||*__Juli__*||
-|12.07|&#x1F4D8;| Finale Projektabgabe |&#x1F4D8;|
+|12.07|&#x1F4D8;| Final Project Delivery |&#x1F4D8;|
 
 
