@@ -43,7 +43,7 @@
 |Date||Desc||
 |:---------:|:--------------:|:--------------:|:--------------:|
 |||*__Maerz__*||
-|10.03|&#x1F536;| Vorbesprechung, Gruppeneinteilung, Organisatorisches  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
+|10.03|&#x1F536;| Preliminary meeting, Divide people into groups, Organization  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
 |17.03|&#x1F536;| Quick Tutorials, Requirements Workshop, Sprint Planning 1 |&#x1F536;|
 |24.03|&#x1F539; |   Individual Group Meetings                                                                    |&#x1F539;|
 |31.03|&#x1F53A; |Osterferien |&#x1F53A; |                                                                     |
