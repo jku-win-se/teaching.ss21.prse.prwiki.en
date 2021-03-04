@@ -40,7 +40,7 @@
 
 ## Schedule:
 
-|Date||Desc||
+|Date||Schedule||
 |:---------:|:--------------:|:--------------:|:--------------:|
 |||*__March__*||
 |11.03|&#x1F536;| Preliminary meeting, Divide people into groups, Organization  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
