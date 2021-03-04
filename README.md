@@ -51,20 +51,20 @@
 |08.04|&#x1F53A; |Easter holidays |&#x1F53A; |
 |12.04|&#x1F4D8;| Mon. 10.00 - Release 1 |  &#x1F4D8;||12.04|&#x1F4D8;| Mon. 10.00 - Release 1 |  &#x1F4D8;|
 |15.04|&#x1F536; |Release 1 Review, Sprint Planning 2 |&#x1F536;|
-|21.04||--||
-|28.04|&#x1F539; |Individual Group Meetings| &#x1F539;|
+|22.04||--||
+|29.04|&#x1F539; |Individual Group Meetings| &#x1F539;|
 |||*__Mai__*||
-|05.05||--||
+|06.05||--||
 |10.05|&#x1F4D8;| Mon. 10.00 - Release 2 |&#x1F4D8;|
-|12.05|&#x1F536;| Release 2 Review, Sprint Planning 3 |&#x1F536;|
-|19.05||--||
-|26.05|--|
+|13.05|&#x1F536;| Release 2 Review, Sprint Planning 3 |&#x1F536;|
+|20.05||--||
+|27.05|--|
 |||*__Juni__*||
-|02.06|&#x1F539;| Individual Group Meetings / Code Review |&#x1F539;|
-|09.06|--|
-|16.06||--||
+|03.06|&#x1F539;| Individual Group Meetings / Code Review |&#x1F539;|
+|10.06|--|
+|17.06||--||
 |21.06|&#x1F4D8;| Mon. 10.00 - Release 3| &#x1F4D8;|
-|23.06|&#x1F536;| Release 3 Review, Final Presentation |&#x1F536;|
+|24.06|&#x1F536;| Release 3 Review, Final Presentation |&#x1F536;|
 |||*__Juli__*||
 |12.07|&#x1F4D8;| Final Project Delivery |&#x1F4D8;|
 
