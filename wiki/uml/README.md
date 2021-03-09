@@ -6,6 +6,8 @@
 
 ### UML Designer tool
 
+UML Designer is a graphical tool to edit and visualize UML models.  
+
 **UML Example in UML Designer tool:**
 
 ![UML Example in UML Designer tool](/wiki/uml/UMLDesigner-example.png)
