@@ -2,14 +2,13 @@
 
 
 ## Important Links:
-
--  Github for Agile Project Management: https://blog.zenhub.com/how-to-use-github-agile-project-management/
 -  CircleCI Continuous Integration: https://circleci.com/dashboard
 - Slides: [/slides](/slides) 
 - Requirements: [Requirements Document](/documents/project-requirements.pdf) 
 
 
 ## Readme and Wiki Pages:
+[Github for Agile Project Management] (/wiki/project-management/README.md)
 
 [GIT](/wiki/git/README.md)
 
