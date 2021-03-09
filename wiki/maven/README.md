@@ -6,4 +6,4 @@ Maven is a build management tool from the Apache Software Foundation and is base
 
 A standard Maven directory structure looks like this: 
 
-![Maven Directory Structure](/wiki/maven/maven-standard-structure.png)
+![Maven Directory Structure](/wiki/maven/maven-standard-structure.png=100x20)
