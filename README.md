@@ -6,7 +6,7 @@
 -  SE Redmine: http://red.se.jku.at/
 -  CircleCI Continuous Integration: https://circleci.com/dashboard
 - Slides: [/slides](/slides) 
-- Requirements: [Requirments Dokument](/documents/ProjectDescription.pdf) 
+- Requirements: [Requirements Document](/documents/project-requirements.pdf) 
 
 
 ## Readme and Wiki Pages:
