@@ -11,8 +11,6 @@
 
 ## Readme and Wiki Pages:
 
-[Jira](/wiki/jira/README.md) 
-
 [GIT](/wiki/git/README.md)
 
 [Maven](/wiki/maven/README.md) 
