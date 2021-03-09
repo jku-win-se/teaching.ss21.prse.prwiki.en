@@ -29,16 +29,15 @@ If you then select this project, you will see the status of the project and whet
 ![ProjektUebersicht](/wiki/circleci/build-failed.png)
 
 
-Sollte der Build fehlschlagen, können sie sich die Details dazu ansehen und so dem Fehler auf den Grund gehen.
-Sie finden dazu eine detaillierte Fehlerausgabe, wenn sie auf den jeweiligen Build klicken der fehlgeschlagen ist.
+If the build fails, you can look at the details and get to the bottom of the error. You will find a detailed error output if you click on the respective build that failed. 
 
 
 ![ProjektUebersicht](/wiki/circleci/build-error.png)
 
 
-In diesem Beispiel sieht man gleich, dass der Build fehlgeschlagen ist, weil ein Kompilierfehler aufgetreten ist:
-In der Klasse `ProjectManager.java` wurde eine Klammer vergessen was zu einem Fehler geführt hat.
+In this example you can immediately see that the build failed because a compile error occurred:
+In the class `ProjectManager.java` a bracket was forgotten which led to an error.
 
-Wird dieser Fehler beseitigt und der Code erneut in das GitHub Repository gepusht, startet CircleCI  automatisch  einen neuerlichen Build und das Problem sollte behoben sein.
+If this error is fixed and the code is pushed into the GitHub repository again, CircleCI automatically starts a new build and the problem should be resolved. 
 
 
