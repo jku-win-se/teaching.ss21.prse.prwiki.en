@@ -26,6 +26,6 @@ Nevertheless, Lucidchart enables easy editing and a user-friendly user interface
 
 URL: https://www.lucidchart.com/
 
-Betriebssystem: Web Browser, Android and iOS.
+Operating System: Web Browser, Android and iOS.
 
 Available: Free Account or Premium Account
