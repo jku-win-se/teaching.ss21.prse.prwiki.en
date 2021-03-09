@@ -1,21 +1,20 @@
 # Continuous Integration with CircleCI
 
 
-*Continuous Integration (CI)* bedeutet: 
+*Continuous Integration (CI)* definition: 
 ```
  CI is a software development practice wherein developers regularly merge their code
  with a central repository after which automated builds and tests are run.
  ```
-Das heißt, CI Tools bieten die Möglichkeit den Code automatisch zu Kompilieren und zu Testen sobald dieser in ein Repository committed wird.
+This means that CI tools offer the possibility to automatically compile and test the code as soon as it is committed to a repository.
+ 
+In our case we use CircleCI (https://circleci.com), which is integrated directly with GitHub and is therefore very easy to use.
 
-In unserem Fall verwenden wir dafür CircleCI (https://circleci.com), welches direkt mit GitHub integriert ist und somit sehr leicht verwendbar ist.
-
-Sie können sich bei CircleCI direkt mit Ihrem GitHub Account einloggen und sollten danach gleich ihr jeweiliges Team Repository in der Übersicht sehen.
+You can log into CircleCI directly with your GitHub account and should then immediately see your respective team repository in the overview. 
 
 ![ProjektUebersicht](/wiki/circleci/projects.png)
 
-
-Wenn sie dann dieses Projekt auswählen, sehen sie den Status des Projekts und ob der letze "Build" (sprich der letzte Kompilierdurchgang des Projekts) erfolgreich war.
+If you then select this project, you will see the status of the project and whether the last "build" (i.e. the last compilation run of the project) was successful. 
 
 
 **Bei Grün ist alles OK!**
