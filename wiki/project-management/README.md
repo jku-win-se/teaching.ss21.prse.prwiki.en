@@ -1,5 +1,7 @@
 # Project management integrated within Github
 
+Tool Comparison: https://zenhub.medium.com/zenhub-vs-github-projects-what-are-the-key-differences-eeafbf477183
+
 ### Zenhub
 
 Tool for Agile Project Management
