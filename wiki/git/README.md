@@ -31,15 +31,15 @@ https://kinsta.com/de/wissensdatenbank/was-ist-github/
 https://kinsta.com/knowledgebase/git-vs-github/
 
 
-Git mit Eclipse:
+Git + Eclipse:
 https://www.vogella.com/tutorials/EclipseGit/article.html
 
-Git mit IntelliJ:
+Git + IntelliJ:
 https://www.logicbig.com/tutorials/misc/git/intellij.html
 
-Git kann gedownloaded werden. Ebenfalls können die ganzen Funktionen über Git-Hub abgerufen werden. 
+Git can be downloaded. Github is a provider of Internet Hosting for sofware development and version control based on Git.
 
-Für alle, die neu in Git sind, bietet Git eine große Auswahl an nützlichen Tipps und Richtlinien für die Nutzung der Grundfunktionen. Als Ausgangspunkt für die Einarbeitung in Git können die folgenden Seiten nützlich sein.
+Git offers a wide range of useful tips and guidelines for using the basic functions. The following web pages can be useful as a starting point for getting familiar with Git 
 
 Getting started with Github:
 https://help.github.com/en/github/getting-started-with-github
