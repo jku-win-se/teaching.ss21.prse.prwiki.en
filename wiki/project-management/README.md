@@ -10,9 +10,9 @@ Tool for Agile Project Management
 
 ![Example of Project Management in Zenhub tool](/wiki/project-management/zenhub-example.png)
 
-### Github Features
+### Github Projects
 
-Github Project: https://github.com/features
+Github Features: https://github.com/features
 
 Project Management: https://docs.github.com/en/github/managing-your-work-on-github/creating-a-project-board
 
