@@ -17,3 +17,15 @@ Available: Free and also it is offered a set of paid versions
 **UML Example in StarUML:**
 
 ![Image of StartUML](/wiki/uml/staruml-UML.png)
+
+### Lucidchart
+
+Lucidchart is a diagram tool that also includes a UML tool that can be used online in a browser. To use Lucidchart you need a free account. The difference between the premium version is that you have a larger cloud storage with the premium account. Furthermore, some functions are only available for the premium account, whereby all basic functions are also available for the free account. However, it should be noted that you can only design up to 60 objects in a diagram; more would require a premium account.
+
+Nevertheless, Lucidchart enables easy editing and a user-friendly user interface and a sufficient selection of UML tools. There is also a "sharing" function and simultaneous editing in a team is also possible. Exporting and importing files are also possible and integration in Google Drive or Microsoft accounts or other applications. Office can be integrated with Lucidchart.
+
+URL: https://www.lucidchart.com/
+
+Betriebssystem: Web Browser, Android and iOS.
+
+Available: Free Account or Premium Account
