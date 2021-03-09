@@ -21,7 +21,7 @@
 
 [UI Prototyping Tools](/wiki/uiprototype/README.md) 
 
-[Continuous Integration mit CircleCI](/wiki/circleci/README.md) 
+[Continuous Integration with CircleCI](/wiki/circleci/README.md) 
 
 
 ## Useful Links:
