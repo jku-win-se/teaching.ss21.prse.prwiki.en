@@ -8,7 +8,7 @@
 
 
 ## Readme and Wiki Pages:
-[Github-Project-Management] (/wiki/project-management/README.md)
+[Project Management](/wiki/project-management/README.md)
 
 [GIT](/wiki/git/README.md)
 
