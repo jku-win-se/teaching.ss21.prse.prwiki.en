@@ -17,13 +17,13 @@ You can log into CircleCI directly with your GitHub account and should then imme
 If you then select this project, you will see the status of the project and whether the last "build" (i.e. the last compilation run of the project) was successful. 
 
 
-**Bei Grün ist alles OK!**
+**Everything is OK!**
 
 ![ProjektUebersicht](/wiki/circleci/build-ok.png)
 
 
 
-**Bei Rot gibt es ein Problem!**
+**Something Failed!**
 
 
 ![ProjektUebersicht](/wiki/circleci/build-failed.png)
