@@ -3,7 +3,7 @@
 
 ## Important Links:
 
--  SE Redmine: http://red.se.jku.at/
+-  Github for Agile Project Management: https://blog.zenhub.com/how-to-use-github-agile-project-management/
 -  CircleCI Continuous Integration: https://circleci.com/dashboard
 - Slides: [/slides](/slides) 
 - Requirements: [Requirements Document](/documents/project-requirements.pdf) 
