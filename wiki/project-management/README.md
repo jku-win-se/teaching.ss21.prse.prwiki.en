@@ -12,7 +12,7 @@ Tool for Agile Project Management
 
 ### Github Features
 
-Github features: https://github.com/features
+Github Project: https://github.com/features
 
 Project Management: https://docs.github.com/en/github/managing-your-work-on-github/creating-a-project-board
 
