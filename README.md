@@ -8,7 +8,7 @@
 
 
 ## Readme and Wiki Pages:
-[Github for Agile Project Management] (/wiki/project-management/README.md)
+[Github-Project-Management] (/wiki/project-management/README.md)
 
 [GIT](/wiki/git/README.md)
 
