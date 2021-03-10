@@ -1,5 +1,5 @@
 # Slides
 
 
-[Unit 0 - Instructions ](/slides/PraktikumSE-00-Instructions-en.pdf)
+[Unit 0 - Instructions ](/slides/SE-Internship-00-Introduction-en.pdf)
 
