@@ -58,7 +58,7 @@
 |27.05|--|
 |||*__June__*||
 |03.06|&#x1F539;| -- |&#x1F539;|
-|10.06|Individual Group Meetings / Code Review|
+|10.06| -- | Individual Group Meetings / Code Review|
 |17.06||--||
 |21.06|&#x1F4D8;| Mon. 12.00 - Release 3| &#x1F4D8;|
 |24.06|&#x1F536;| Release 3 Review, Final Presentation |&#x1F536;|
