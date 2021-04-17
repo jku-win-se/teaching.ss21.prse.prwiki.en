@@ -32,8 +32,6 @@
 | [Swing Tutorial](https://www.javatpoint.com/java-swing)                            | Java                     | Java Swing UI Tutorial |
 | [JavaFX Tutorial](https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)                            | Java                     | JavaFX UI Tutorial|
 | [Junit Test Tutorial](https://www.vogella.com/tutorials/JUnit/article.html)                            | Java                     | JUnit Test Tutorial|
-| [Use Case Template](...)                            | Requirements                     | Use Case Template|
-
 
 ## Schedule:
 
