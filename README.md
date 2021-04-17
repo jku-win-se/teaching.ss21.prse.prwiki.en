@@ -46,7 +46,7 @@
 |08.04|&#x1F53A; |Easter holidays |&#x1F53A; |
 |12.04|&#x1F4D8;| Mon. 12.00 - Release 1 |  &#x1F4D8;||12.04|&#x1F4D8;| Mon. 12.00 - Release 1 |  &#x1F4D8;|
 |15.04|&#x1F536; |Release 1 Review, Sprint Planning 2 |&#x1F536;|
-|22.04||--||
+|22.04|| CircleCI + Java XML Parser||
 |29.04|&#x1F539; |Individual Group Meetings| &#x1F539;|
 |||*__May__*||
 |06.05||--||
