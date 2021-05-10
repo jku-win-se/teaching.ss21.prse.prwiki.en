@@ -51,8 +51,8 @@
 |||*__May__*||
 |06.05||--||
 |10.05|&#x1F4D8;| Mon. 12.00 - Release 2 |&#x1F4D8;|
-|13.05|&#x1F536;| Release 2 Review, Sprint Planning 3 |&#x1F536;|
-|20.05||--||
+|13.05|&#x1F536;| -- |&#x1F536;|
+|20.05|&#x1F536;|Release 2 Review, Sprint Planning 3||
 |27.05|--|
 |||*__June__*||
 |03.06|&#x1F539;| -- |&#x1F539;|
